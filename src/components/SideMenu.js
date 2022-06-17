@@ -1,7 +1,8 @@
 import React from "react";
+// import {makeStyles } from
 
 const SideMenu = () => {
-  return <div>SideMenu</div>;
+  return <div className="side-menu"></div>;
 };
 
 export default SideMenu;
